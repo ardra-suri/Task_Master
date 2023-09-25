@@ -17,3 +17,8 @@
 - [ ] Test user registration with valid and invalid inputs.
 - [ ] Verify that user data is stored securely.
 - [ ] Confirm that verification emails are sent and accounts are activated upon clicking the link.
+
+#### Subtasks:
+
+1. [ ] Create User Model
+2. [ ] Implement User Registration API
