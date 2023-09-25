@@ -20,5 +20,4 @@
 
 #### Subtasks:
 
-1. [ ] Create User Model
-2. [ ] Implement User Registration API
+1. [ ] Implement User Registration API
