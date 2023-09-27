@@ -1,6 +1,3 @@
 ## User Profile Management
 
-<img width="1511" alt="image" src="https://github.com/siddhipatel10/Task_Master/assets/81753703/cca3dbdb-15a9-49e8-bdc8-6fbfe23aa8bd">
-
-
-
+![WhatsApp Image 2023-09-27 at 14 12 34](https://github.com/siddhipatel10/Task_Master/assets/81753703/5ff4f777-e2e5-441d-ad1d-9d4f720fac4b)
