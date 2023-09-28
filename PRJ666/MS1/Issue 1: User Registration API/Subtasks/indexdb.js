@@ -11,7 +11,7 @@ export const createCollectionDB = () => {
         console.log("IndexedDB not found in this browser.");
     }
 
-    const request = indexedDB.open("taskify_database", 1);
+    const request = indexedDB.open("taskmaster", 1);
 
     request.onerror = function (event) {
         // window.alert("An error occurred with IndexedDB");
