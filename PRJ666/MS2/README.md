@@ -1,8 +1,8 @@
 ## **Milestone 2: Task Assignment and Management**
 
-- ![Duration](https://img.shields.io/badge/⏳%20Duration-Sept.%205,%202023%20--%20Sept.%2027,%202023-blue)
+- ![Duration](https://img.shields.io/badge/⏳%20Duration-Oct.%2002,%202023%20--%20Oct.%2016,%202023-blue)
 - ![Label](https://img.shields.io/badge/📖%20Label-Task%20Assignment%20and%20Managment-blue)
-- ![Deadline](https://img.shields.io/badge/⏰%20Deadline-Sept.%2027,%202023-red)
+- ![Deadline](https://img.shields.io/badge/⏰%20Deadline-Oct.%2016,%202023-red)
 - ![Buffer](https://img.shields.io/badge/⌛%20Buffer-Approximately%201%20week-brightgreen)
 
 ### **Issue 1: Team Assignment API**
