@@ -81,7 +81,7 @@
 2. [ ] Ensure assigned tasks are listed with their details, responsibilities, and deadlines
 3. [ ] Implement real-time updates of task details on the assignment view
 
-### **Issue 3: Task Assignment View**
+### **Issue 3: Task Update API**
 
 **User Story**: As a team member, I want to be able to update the tasks assigned to me, so I can reflect progress and changes.
 
