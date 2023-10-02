@@ -1,3 +1,5 @@
+### **Issue 3: Task Assignment View**
+
 **User Story**: As a team member, I want to be able to view the tasks assigned to me with all relevant details.
 
 **Description**: This part involves creating the Task Assignment View, allowing team members to see tasks assigned to them.
@@ -15,6 +17,6 @@
 
 #### Subtasks:
 
- Develop the Task Assignment View on the team member's dashboard
- Ensure assigned tasks are listed with their details, responsibilities, and deadlines
- Implement real-time updates of task details on the assignment view
+1. [ ] Develop the Task Assignment View on the team member's dashboard
+2. [ ] Ensure assigned tasks are listed with their details, responsibilities, and deadlines
+3. [ ] Implement real-time updates of task details on the assignment view
