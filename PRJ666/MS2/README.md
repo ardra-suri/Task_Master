@@ -77,9 +77,9 @@
 
 #### Subtasks:
 
- Develop the Task Assignment View on the team member's dashboard
- Ensure assigned tasks are listed with their details, responsibilities, and deadlines
- Implement real-time updates of task details on the assignment view
+1. [ ] Develop the Task Assignment View on the team member's dashboard
+2. [ ] Ensure assigned tasks are listed with their details, responsibilities, and deadlines
+3. [ ] Implement real-time updates of task details on the assignment view
 
 ### **Issue 4: Task Update API**
 
