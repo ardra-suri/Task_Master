@@ -1,4 +1,4 @@
-### **Issue 2: Unique Team Name Constraint - Resolution**
+### **Issue 4: Unique Team Name Constraint - Resolution**
 
 **User Story**: As a system administrator, I want to enforce the uniqueness of team names to prevent any potential confusion or overlap between teams.
 
