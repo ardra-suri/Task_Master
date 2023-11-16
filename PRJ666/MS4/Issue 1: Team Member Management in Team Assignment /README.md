@@ -1,4 +1,4 @@
-### **Issue 5: Team Member Management in Team Assignment**
+### **Issue 1: Team Member Management in Team Assignment**
 
 **User Story**: As a team lead, I want the ability to add and delete team members after a team is created, ensuring flexibility in team composition.
 
