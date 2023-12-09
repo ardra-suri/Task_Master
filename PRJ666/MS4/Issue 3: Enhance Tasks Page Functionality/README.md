@@ -13,7 +13,7 @@ As a user, I want to be able to edit tasks that have already been created, so th
 - [ ] The user should be able to save the changes made to the task.
 
 **Testing:**
-- [ ] Verify that the "Edit" option is present for each task.
+- [ ] Verify that the Edit feature is present for each task.
 - [ ] Confirm that the editing modal/form allows changes to task details.
 - [ ] Ensure that the changes made are saved successfully.
 
