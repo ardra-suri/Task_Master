@@ -1,4 +1,4 @@
-### **User Authentication and Management System Implementation**
+### **User Authentication, Management System Implementation and Dashboard**
 
 #### **Issue 1: User Registration, Authentication, and Logout**
 
