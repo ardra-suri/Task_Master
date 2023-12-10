@@ -32,9 +32,8 @@
 
 **Testing**:
 
-- [ ] Test user registration with valid and invalid inputs.
+- [ ] Test user registration.
 - [ ] Verify that user data is stored securely.
-- [ ] Confirm that verification emails are sent and accounts are activated upon clicking the link.
 - [ ] Test user login with valid and invalid credentials.
 - [ ] Verify that users are securely authenticated.
 - [ ] Confirm that successful login redirects to the correct page.
