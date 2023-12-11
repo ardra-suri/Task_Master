@@ -17,5 +17,20 @@ Make sure you have [Node.js](https://nodejs.org/) and [Visual Studio Code](https
 1. Download the project zip file or clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/TaskMaster.git
+   git clone https://github.com/siddhipatel10/Task_Master/tree/main/PRJ666/Artifacts
+
+2. Open the project in Visual Studio Code:
+3. Open the terminal in Visual Studio Code (View -> Terminal).
+4. Install the project dependencies:
+   ```bash
+   npm install
+
+## Run the Project
+
+Now that you have installed the dependencies, you can run the project using the following command:
+
+   ```bash
+   npm run dev
+
+
 
