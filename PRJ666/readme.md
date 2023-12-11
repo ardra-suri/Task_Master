@@ -31,6 +31,17 @@ Now that you have installed the dependencies, you can run the project using the 
 
    ```bash
    npm run dev
+   ```
+
+
+
+
+
+
+
+
+
+
 
 
 
